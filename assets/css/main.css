@@ -240,8 +240,9 @@ input, select, textarea {
     width: 200px;
     border-radius: 50%;
     border: 4px solid;
-    border-color: rgba(0, 0, 0, 0.45);
-    -webkit-transition: border-color 200ms ease-in-out;
+    border-color: #4F5F58;
+/*    border-color: rgba(0, 0, 0, 0.45);
+*/    -webkit-transition: border-color 200ms ease-in-out;
     transition: border-color 200ms ease-in-out;
 }
 
