@@ -248,6 +248,9 @@ input, select, textarea {
     transition: border-color 200ms ease-in-out;
 }
 
+#deenLogo {
+  object-fit: cover
+}
 
 /* Row */
 
